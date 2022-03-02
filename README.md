@@ -70,36 +70,6 @@
   <img alt="Marcos-UE" align="center" height="60" width="60"   src="https://public.boxcloud.com/api/2.0/files/809821493408/content?preview=true&version=866775185408&access_token=1!va_jnPRxmvafKVIWshHM9F5G3DbhRY6zF9me-CJ6PS89DMBBb47hLzCaspwcLaoZSiR_nb2t0xEAlttEQq4Nrnb7kwiTLEkJA8Oiz5y315JrsbtaSKB439RnlixfcdosJrhJK85yfspfhJbw_hNZsFvoE-TS76aj28R28oxHtRhY2IM9wlY4rwLKb373Ulj3Sj882qcHCUGdnML-BoOQQvzFAsyFcgNuaTJhfbDEev1GI92RVDlk-X2JhkNhdZ9FDsd12Vw8KXjWbL5IbVzGeVVMlrXk5PJfyFoH0UT8a4WNDWrLCJVqlqs8Q5jWf4xozZZv7Z-Pes2OzxVImslCvEPwRhSFrDJNpoM4DXJt-wrtWZ9BE3pxwjWKO2VUpA5Si8GoI_tgmtA3KWI37gtRZysFUnpswUafXfOg7FBHsc4QAZxR9plL6JZpNvy3RtMqcTcWrauYG7IrMPmPCa0MIvGLsLNKxZbZebDROTr7IUateQvs8cS5TC4qnjrXK272n7AdtAdWWkI8kj6QZhCgwrB-hlJ1GBDtlDDmudjlJjVrtaCpD9HYl6ATsyMuCVPCz9ZY&shared_link=https%3A%2F%2Fepicgames.ent.box.com%2Fs%2Fc2m8idcyejqvg5mjf4e2q73b7jbaghft&box_client_name=box-content-preview&box_client_version=2.83.0"/>
 </div>
 
-<table>
-  <thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td colspan="2">Larry the Bird</td>
-      <td>@twitter</td>
-    </tr>
-  </tbody>
-</table>
-  
 <!--
 **marcosanisio/marcosanisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
