@@ -32,11 +32,19 @@
         <img alt="Marcos-CSS3" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       </th>
       <td>✨✨✨✨✨✨</td>
+      <td>
+        <img alt="Marcos-Vue" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+      </td>
+      <td>✨✨✨✨✨✨</td>
     </tr>
     <tr>  
       <th scope="row">
         <img alt="Marcos-Javascript" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       </th>
+      <td>✨✨✨✨✨✨</td>
+      <td>
+        <img alt="Marcos-React" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+      </td>
       <td>✨✨✨✨✨✨</td>
     </tr>
     <tr>
@@ -59,12 +67,7 @@
     </tr>
   </tbody>
 </table>
- <hr/>
-<div style="display: inline_block">
-  
-  <img alt="Marcos-Vue" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-  <img alt="Marcos-React" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</div>
+
 
 <!--
 **marcosanisio/marcosanisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
