@@ -21,49 +21,70 @@
       <th>
         <img alt="Marcos-HTML5" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
       </th>
-      <td>✨✨✨✨✨✨</td>
+      <td>
+        ⭐⭐⭐⭐⭐ 
+        ⭐⭐⭐⭐📚
+      </td>
       <td>
         <img alt="Marcos-Angular" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
       </td>
-      <td>✨✨✨✨✨✨</td>
+      <td>
+        ⭐⭐⭐⭐⭐ 
+        ⭐⭐⭐⭐📚
+      </td>
     </tr>
     <tr>
       <th scope="row">
         <img alt="Marcos-CSS3" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       </th>
-      <td>✨✨✨✨✨✨</td>
+      <td>⭐⭐⭐⭐📚📚📚📚📚📚</td>
       <td>
         <img alt="Marcos-Vue" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
       </td>
-      <td>✨✨✨✨✨✨</td>
+      <td>⭐⭐⭐📚📚📚📚📚📚📚</td>
     </tr>
     <tr>  
       <th scope="row">
         <img alt="Marcos-Javascript" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       </th>
-      <td>✨✨✨✨✨✨</td>
+      <td>⭐⭐⭐⭐📚📚📚📚📚📚</td>
       <td>
-        <img alt="Marcos-React" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+        <img 
+             alt="Marcos-React" 
+             align="center" 
+             height="60" 
+             width="60"
+             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
       </td>
-      <td>✨✨✨✨✨✨</td>
+      <td>
+        ⭐⭐⭐⭐⭐ 
+        ⭐📚📚📚📚
+      </td>
     </tr>
     <tr>
       <th scope="row">
         <img alt="Marcos-TypeScript" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       </th>
-      <td>✨✨✨✨✨✨</td>
+      <td>
+        ⭐⭐⭐⭐⭐ 
+        ⭐📚📚📚📚
+      </td>
+      <td rowspan="3" colspan="2"></td>
     </tr>
     <tr>
       <th scope="row">
         <img alt="Marcos-Python" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       </th>
-      <td>✨✨✨✨✨✨</td>
+      <td>⭐⭐⭐📚📚📚📚📚📚📚</td>
     </tr>
     <tr>  
       <th scope="row">
         <img alt="Marcos-PHP" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
       </th>
-      <td>✨✨✨✨✨✨</td>
+      <td>
+        ⭐⭐⭐⭐⭐ 
+        ⭐⭐📚📚📚
+      </td>
     </tr>
   </tbody>
 </table>
