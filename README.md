@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosanisio&show_icons=true&theme=dark&count_private=true"/>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosanisio&count_private=true&show_icons=true&theme=radical)
 </div>
 <hr/>
 <div style="display: inline_block">
